@@ -74,4 +74,34 @@ Trained on a text corpus with ~1 lakh characters where the data is processed int
 
 ---
 
+# Project 4
+# Diabetes prediction using Random forest classifier
+This project predicts whether a person is likely to have diabetes based on health-related input features using a Random Forest Classifier.
+
+## 🧠 Model Overview
+
+Used a Random Forest Classifier for classification. It performs well with both categorical and numerical data, and handles feature importance effectively. 
+Model achieved an accuracy of 78%.
+
+## 📊 Features Used
+
+- Pregnancies  
+- Glucose level  
+- Blood pressure  
+- Skin thickness  
+- Insulin  
+- BMI  
+- Diabetes pedigree function  
+- Age etc.
+
+## ⚙️ Tech Stack
+
+- Python  
+- scikit-learn  
+- pandas, numpy  
+- matplotlib, seaborn (for visualization)
+
+---
+
+
 
